@@ -111,7 +111,7 @@ No blinding is involved in this investigation.
 
 **P1: correlation between fat and the ratio of body weight to tarsus length**
 
-1) Ratio of body weight to tarsus length (tarsus length = average of left and right legs as in @bleeker2005body)
+1) Scaled mass index using measures of body weight and tarsus length or flattened wing length (average of left and right as in @bleeker2005body). We will choose the measure that is most correlated with body weight (@pieg2009new).
 
 2) Season (breeding [Sep-Feb], non-breeding [Mar-Aug])
 
